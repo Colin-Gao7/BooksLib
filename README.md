@@ -1,2 +1,4 @@
 # BooksLib
-manage home books
+A platform to manage home books for family.
+
+## 
